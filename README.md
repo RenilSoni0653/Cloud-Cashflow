@@ -1,6 +1,3 @@
-# Cloud-Cashflow
-Multi-tenant Expense &amp; Billing Platform
-
 # Cloud CashFlow – Expense & Billing Platform
 
 Cloud CashFlow is a cloud-native, multi-tenant expense and billing platform built with Java, Spring Boot, and Azure.  
